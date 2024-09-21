@@ -1,4 +1,4 @@
-This project is a creative, user-friendly webpage designed for a grocery drone delivery service. It showcases the futuristic concept of drone technology being used to deliver groceries directly to the customer's doorstep. The webpage is built with an emphasis on smooth navigation, clear user interaction, and a modern aesthetic, providing visitors with an immersive and informative experience.
+
 Features:
 
     Clean, Modern UI: A visually appealing design that balances functionality and style.
